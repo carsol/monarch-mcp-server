@@ -1,4 +1,5 @@
 # Monarch Money MCP Server
+[![Trust Score](https://archestra.ai/mcp-catalog/api/badge/quality/carsol/monarch-mcp-server)](https://archestra.ai/mcp-catalog/carsol__monarch-mcp-server)
 
 A Model Context Protocol (MCP) server that provides read-only access to Monarch Money financial data. This allows AI assistants like Claude Desktop to analyze your financial information, transactions, budgets, and cashflow data.
 
