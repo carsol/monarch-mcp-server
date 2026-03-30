@@ -15,6 +15,10 @@ Shout out to
 - **Secure authentication** with MFA support
 - **Session persistence** to minimize re-authentication
 
+## Hosted deployment
+
+A hosted deployment is available on [Fronteir AI](https://fronteir.ai/mcp/carsol-monarch-mcp-server).
+
 ## Installation
 
 ### Prerequisites
